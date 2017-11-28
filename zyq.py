@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 all_price=10000                    #现在银行里面存的现金
 buy_price=0
-add_suuccess=0
+add_suuccess=1
 mima=12345
 goods=[{"name":"豪车","price": 1000},{"name":"房子","price": 2000},{"name":"老婆","price": 1500},{"name":"儿子","price": 1100},{"name":"女儿","price": 1200},{"name":"孙子","price": 1300}]
 car=[]
